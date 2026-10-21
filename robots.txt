@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laneprimal3d.github.io/sz-f65/sitemap.xml
